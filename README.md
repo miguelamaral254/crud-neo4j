@@ -48,7 +48,7 @@ No diretório raiz rode:
 
 
 docker-compose up -d
-````
+
 
 O Neo4j estará disponível na porta padrão Bolt `7687`.
 
